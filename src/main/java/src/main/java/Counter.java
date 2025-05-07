@@ -1,4 +1,4 @@
-package src.main.java;
+package src.main1.java;
 
 public class Counter {
 
@@ -13,7 +13,7 @@ public class Counter {
 	}
 	
 	public void increment() {
-		count++;
+		count+;
 	}
 	
 	public void decrement() {
