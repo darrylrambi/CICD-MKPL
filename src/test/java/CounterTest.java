@@ -16,6 +16,7 @@ public class CounterTest {
 		
 		testCounter.reset();
 		testCounter.increment();
+		testCounter.increment();
 		
 		assertEquals(testCounter.getCount(), 0);
 	}
